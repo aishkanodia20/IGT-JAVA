@@ -1,6 +1,5 @@
 package Practice;
 
-package com.easy;
 
 public class Program3 {
 
